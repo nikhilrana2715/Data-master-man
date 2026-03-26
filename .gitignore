@@ -1,0 +1,28 @@
+# Node modules and build directories
+node_modules/
+dist/
+
+# Environment files
+.env
+.env.local
+
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
+npm-debug.log*
+
+# Uploads
+uploads/
+
+# Build directores
+build/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Swap files
+*.swp
+*.swo
